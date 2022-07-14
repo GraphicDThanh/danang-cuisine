@@ -14,7 +14,7 @@
 ### Bánh Canh Cua Dì Tuyền
 - [Video](https://www.youtube.com/watch?v=YEmfsxXy61M)
 - Địa chỉ: [9 Bình Minh 2](https://goo.gl/maps/xfSEU78d3uAtM6ja8)
-- Lưu ý: chỉ bản 1 tiếng rưỡi, bắt đầu lúc 4:30PM 
+- Lưu ý: chỉ bán 1 tiếng rưỡi, bắt đầu lúc 4:30PM 
 
 ### [Hải Sản Năm Đảnh](https://github.com/GraphicDThanh/danang-cuisine)
 - Địa chỉ: 139/59/38/10 Trần Quang Khải, Thọ Quang, Sơn Trà, Đà Nẵng
@@ -54,7 +54,7 @@
 - Giá nước trung bình 60k, có bán đồ ăn sáng, món chay
 - Đóng cửa lúc 17h hàng ngày
 
-## Quán Bar
+## Quán Bar/Pub
 ### Esco Beach
 - [Lô 12 Võ Nguyên Giáp](https://www.google.com/maps/contrib/102723144515683239966)
 - Mô tả: 
@@ -64,3 +64,11 @@
  - Giá:
    - Từ 70k - 900k, đi sớm trước 19:00 có giảm giá tầm 10-20%
   
+### [On The Radio Bar](https://g.page/radiodanang?share)
+- 76 Thái Phiên
+- Mô tả:
+  - Không gian đóng, nhạc live, DJ
+  
+## Spa & Massage
+### [Herbal Spa Da Nang](https://www.facebook.com/herbalspadanang/)
+- 201 Dương Đình Nghệ, ĐN
