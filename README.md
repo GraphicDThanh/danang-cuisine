@@ -16,6 +16,17 @@
 - Địa chỉ: [9 Bình Minh 2](https://goo.gl/maps/xfSEU78d3uAtM6ja8)
 - Lưu ý: chỉ bản 1 tiếng rưỡi, bắt đầu lúc 4:30PM 
 
+### [Hải Sản Năm Đảnh](https://github.com/GraphicDThanh/danang-cuisine)
+- Địa chỉ: 139/59/38/10 Trần Quang Khải, Thọ Quang, Sơn Trà, Đà Nẵng
+- Lưu ý: 
+  - đi sớm 5-5:30PM để chọn bàn, quán nghỉ lúc 8:30PM
+  - ăn bể bụng và rẻ lắm nên nếu được hãy nhịn ăn trưa và chuẩn bị men tiêu hóa
+
+### [Bún Quậy Phú Quốc](https://g.page/bunquaydacsanphuquoc?share)
+- Địa chỉ: 61 Huỳnh Thúc Kháng
+- Giá: 40-60k/tô
+- Bún tươi làm tại chỗ, hải sản tươi, ngon và phù hợp đi một mình hoặc ít người
+
 ## Quán Cà phê 
 ### The Local Beans
 - Địa chỉ: [84 Châu Thị Vĩnh Tế](https://goo.gl/maps/G6bNML96hS74Aetm6)
