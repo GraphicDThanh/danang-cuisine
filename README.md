@@ -41,10 +41,20 @@
 - Giá: 15-30k/phần
 - Vào những ngày trơi chuyển lạnh, những ngày gió mùa về nếu được thưởng thức món ram cuốn cải ở đây thì tuyệt vời.
 
+### [Chickpea Eatery - Vegan/Thuần Chay](https://www.facebook.com/chickpea.eatery)
+- Địa chỉ: 
+  - 73/12 Truong Dinh, Da Nang
+  - 86/5 Phan Chau Trinh, Hoi An
+- Mô tả: 
+  - Ai mà ăn thuần chay, hoặc đi ĐN vào ngày ăn chay thì quán này là best nhé. 
+  - Vào đây mn sẽ gặp rất nhiều Tây :)) Vì cô chủ là founder của ["Xuân Tú VietNam Tour"](https://xuantuvietnamtours.com/) - 1st private tourguide in DN
+  
 ## Quán Cà phê 
 ### The Local Beans
 - Địa chỉ: [84 Châu Thị Vĩnh Tế](https://goo.gl/maps/G6bNML96hS74Aetm6)
-- Giá: 85k/ngày, free 1 ly nước bất kỳ
+- Giá: 
+  - cf bình thường: 30-60k
+  - working space: 85k/ngày, free 1 ly nước bất kỳ
 - Phù hợp: 
   - làm việc(tầng 3 có working space)
   - làm gì cũng được, ý là ngồi vs bạn cũng đc, giá tầm trung và chất lượng, nhân viên xinh, có quen chủ :3
