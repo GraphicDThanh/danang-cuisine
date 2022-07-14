@@ -27,6 +27,11 @@
 - Giá: 40-60k/tô
 - Bún tươi làm tại chỗ, hải sản tươi, ngon và phù hợp đi một mình hoặc ít người
 
+### [Ram cuốn cải](https://hanamihotel.com/2019/top-6-quan-ram-cuon-cai-da-nang/)
+- Địa chỉ: 272 Lê Duẩn, Hải Châu, Đà Nẵng
+- Giá: 15-30k/phần
+- Vào những ngày trơi chuyển lạnh, những ngày gió mùa về nếu được thưởng thức món ram cuốn cải ở đây thì tuyệt vời.
+
 ## Quán Cà phê 
 ### The Local Beans
 - Địa chỉ: [84 Châu Thị Vĩnh Tế](https://goo.gl/maps/G6bNML96hS74Aetm6)
