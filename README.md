@@ -27,6 +27,15 @@
 - Giá: 40-60k/tô
 - Bún tươi làm tại chỗ, hải sản tươi, ngon và phù hợp đi một mình hoặc ít người
 
+### [Mỳ Quảng Bà Mua](https://www.facebook.com/MonNgonMyQuang)
+- Địa chỉ: [19-21 Trần Bình Trọng, Phước Ninh, Hải Châu](https://goo.gl/maps/Wy4EfWPDSc9nqg3g8)
+- Giá: Từ 45k
+- Nên ăn ở Trần Bình Trọng, dù có nhiều chi nhánh nhưng tính nhất quán về gia vị là khác nhau, kể cả hũ ớt thì chi nhánh Hồ Nghinh đã khác hoàn toàn so với chi nhánh gốc
+
+### Bún chả cá 109
+- Địa chỉ: [109 Nguyễn Chí Thanh, Hải Châu 1, Hải Châu](https://goo.gl/maps/QCTbgwgqLbUwUUFK6)
+- Giá: Trung bình 30k
+
 ## Quán Cà phê 
 ### The Local Beans
 - Địa chỉ: [84 Châu Thị Vĩnh Tế](https://goo.gl/maps/G6bNML96hS74Aetm6)
@@ -39,6 +48,11 @@
 - Địa chỉ: Lô 442 Đường Ngô Thì Sĩ
 - Giá: 90k trở lên
 - Phù hợp: người chuyên thưởng thức cafe rang xay
+
+### [BreadnSalt Café](https://www.facebook.com/breadnsalt.cafe)
+- Địa chỉ: [84 Hoàng Kế Viêm, Bắc Mỹ Phú, Ngũ Hành Sơn](https://g.page/breadnsalt?share)
+- Giá nước trung bình 60k, có bán đồ ăn sáng, món chay
+- Đóng cửa lúc 17h hàng ngày
 
 ## Quán Bar/Pub
 ### Esco Beach
