@@ -146,6 +146,7 @@
     - Có con đường sim mới trồng
     - View nhìn xuống thành phố, đi bộ lên Đồi Vọng Cảnh tầm 2-3km, làm trái dừa ngồi ngắm cảnh xong leo xuống là quá hợp lý =))
     - Nên đi buổi sáng vì mát mẻ, buổi chiều hướng mặt trời lặn bao phê nóng =))
+    - Nếu lười đi thì mua ly cf lên đi bộ 400m rồi đi xuống cũng được :3
 
 ### Đi dạo trong thành phố
 - Địa chỉ: Nguyễn Chí Thanh - Lê Lợi
