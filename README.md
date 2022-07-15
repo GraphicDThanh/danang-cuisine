@@ -2,6 +2,12 @@
 > Lượm by Webuild's local members
 
 ## Đồ Ăn
+### Bún Bò Huế
+- Địa chỉ: Kiệt, 123 Nguyễn Thị Minh Khai, ĐN
+- Mô tả: 
+  - chỉ bán sáng, giá 40-60k
+  - đi tắm biển về mà vào làm tô bún này là hết xẩy :))
+
 ### [Bánh tráng thịt heo Đại Lộc](https://www.facebook.com/QuanDaiLoc.97TrungNuVuong/)
 - Địa chỉ: 97 Trưng Nữ Vương
 
@@ -67,6 +73,13 @@
   - Cô này sáng nào cũng đi xe từ Quảng Nam ra đây bán, rau quê nên ăn xả láng luôn
   - Cái tô mỳ khổng lồ, nữ ăn nhớ dặn bỏ ít mỳ, chứ cô quen tay bỏ nhiều lắm @@
   
+### [Ốc Cay Hà Nội](https://www.foody.vn/da-nang/oc-cay-ha-noi-ong-ich-khiem)
+- Địa chỉ: 174-176 Ông Ích Khiêm
+- Mô tả:
+  - Chỉ bán chiều tối, mở cửa từ 4PM
+  - Giá tầm 70 - 150k
+  - Quán này ngon lắm, đặc biệt dân ghiền ốc, chip chip. Muốn ăn no thì gọi thêm bánh mỳ.
+  
 ## Quán Cà phê 
 ### [Cà phê Long](https://goo.gl/maps/LKjuWcahSAUTvGRg7)
 - Địa chỉ: 123 Lê Lợi
@@ -122,5 +135,29 @@
 ### [Herbal Spa Da Nang](https://www.facebook.com/herbalspadanang/)
 - 201 Dương Đình Nghệ, ĐN
 
+## Đi dạo
+### Đi dạo trên núi
+- Địa chỉ: Bắt đầu từ ["Trạm Canh Gác Bán Đảo Sơn Trà"](https://goo.gl/maps/TxacQaqZGgYsmAzv8) đến [Đồi Vọng Cảnh](https://goo.gl/maps/tAZFKyfau9j63B1LA)
+- Mô tả: 
+  - Nếu bạn đi xe tay ga, thì đên đến trạm này sẽ bị chặn lại không cho lên nữa. Phải thuê xe số thì mới tiếp tục chạy lên được Trạm Rada hay lên đỉnh Bàn Cờ. 
+  - Cung này đi bộ rất tuyệt vì:
+    - Ít xe lên xuống(khác hướng chùa Linh Ứng du lịch)
+    - Đôi khi sẽ gặp đàn Vooc đi kiếm ăn, hay gặp khỉ và các loại chim
+    - Có con đường sim mới trồng
+    - View nhìn xuống thành phố, đi bộ lên Đồi Vọng Cảnh tầm 2-3km, làm trái dừa ngồi ngắm cảnh xong leo xuống là quá hợp lý =))
+    - Nên đi buổi sáng vì mát mẻ, buổi chiều hướng mặt trời lặn bao phê nóng =))
 
+### Đi dạo trong thành phố
+- Địa chỉ: Nguyễn Chí Thanh - Lê Lợi
+- Mô tả: 
+  - Nên đi buổi sáng tầm 7-9AM
+  - Bắt đầu từ 129 Nguyễn Chí Thanh(quán cafe i3) đi bộ dọc đến Nguyễn Du rồi quẹo trái qua đi dọc đường Lê Lợi để quay về(tầm 1.5-2km)
+  - Quán i3 có cái vỉa hè(có cái cây siêu to + đẹp) bạn để xe trên đó được(cf sữa quán này ngon ý, thử nếu bạn  thích)
+  - Tuyến này có nhiều cây khá mát mẻ, có vỉa hè và có nhiều quán cafe cũng như có thể quan sát mọi người sinh hoạt, đi qua quán bún chả cá 199NCT, quán cf Long(ở trên)
+  - Quán cf i3 có cái vỉa hè bạn để xe trên đó được(cf sữa quán này ngon ý)
 
+### Đi dạo dọc sông Hàn
+- Địa chỉ: Bạch Đằng
+- Mô tả: 
+  - Buổi tối mát mẻ, sôi động. Sáng thì hơi vắng và nắng.
+  - Bạn có thể gửi xe ở công viện Apec rồi tha hồ mà đi, khát nước thì có mấy cái cây bán nước tự động đó =))
