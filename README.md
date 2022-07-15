@@ -65,8 +65,8 @@
    - Xôi, bánh ướt
    - Sữa và các loại bánh tiêu, bánh bò, bánh da heo
 
-### [Mỳ Quảng(của người Quảng, sáng nào cũng đi xe ra ĐN bán)](https://goo.gl/maps/wqj459sbvtSXf9ZU6)
-- Địa chỉ: Bên trái viện kiểm soát Sơn Trà =)), đối diện Achcha Book Coffee, công 
+### [Mỳ Quảng](https://goo.gl/maps/wqj459sbvtSXf9ZU6)
+- Địa chỉ: Bên trái viện kiểm soát Sơn Trà =)), đối diện Achcha Book Coffee chỗ công viên
 - Mô tả: 
   - Chỉ bán sáng sớm(6-8AM), tầm 8g là hết
   - Mỳ quảng siêu ngonnn, giá 15k-20k(chưa ăn chỗ nào ngon hơn và rẻ hơn)
