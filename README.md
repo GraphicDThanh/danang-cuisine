@@ -48,17 +48,51 @@
 - Mô tả: 
   - Ai mà ăn thuần chay, hoặc đi ĐN vào ngày ăn chay thì quán này là best nhé. 
   - Vào đây mn sẽ gặp rất nhiều Tây :)) Vì cô chủ là founder của ["Xuân Tú VietNam Tour"](https://xuantuvietnamtours.com/) - 1st private tourguide in DN
+ 
+ ## [Nhóm bán đồ ăn sáng](https://goo.gl/maps/mJ5UCLW1AgQPLXcV8)
+ - Địa chỉ: Ngã ba Nguyễn Chí Thanh và Hải Phòng, đối diện The Coffee House, bên cạnh trường THPT Phan Châu Trinh
+ - Mô tả:
+   - Chỉ bán sáng
+   - Chủ yếu bán cho học sinh, giá rẻ
+ - Món ăn: 
+   - Bánh mỳ ốp la -> Ngonnn, ốp la 1 trứng 10k, 2 trứng 15k
+   - Xôi, bánh ướt
+   - Sữa và các loại bánh tiêu, bánh bò, bánh da heo
+
+## [Mỳ Quảng(của người Quảng, sáng nào cũng đi xe ra ĐN bán)](https://goo.gl/maps/wqj459sbvtSXf9ZU6)
+- Địa chỉ: Bên trái viện kiểm soát Sơn Trà =)), đối diện Achcha Book Coffee, công 
+- Mô tả: 
+  - Chỉ bán sáng sớm(6-8AM), tầm 8g là hết
+  - Mỳ quảng siêu ngonnn, giá 15k-20k(chưa ăn chỗ nào ngon hơn và rẻ hơn)
+  - Cô này sáng nào cũng đi xe từ Quảng Nam ra đây bán, rau quê nên ăn xả láng luôn
+  - Cái tô mỳ khổng lồ, nữ ăn nhớ dặn bỏ ít mỳ, chứ cô quen tay bỏ nhiều lắm @@
   
 ## Quán Cà phê 
-### The Local Beans
-- Địa chỉ: [84 Châu Thị Vĩnh Tế](https://goo.gl/maps/G6bNML96hS74Aetm6)
-- Giá: 
-  - cf bình thường: 30-60k
-  - working space: 85k/ngày, free 1 ly nước bất kỳ
-- Phù hợp: 
-  - làm việc(tầng 3 có working space)
-  - làm gì cũng được, ý là ngồi vs bạn cũng đc, giá tầm trung và chất lượng, nhân viên xinh, có quen chủ :3
-
+### [Cà phê Long](https://goo.gl/maps/LKjuWcahSAUTvGRg7)
+- Địa chỉ: 123 Lê Lợi
+- Mô tả:
+  - Mở cửa: 6AM - 6PM
+  - Giá: 10-30k
+  - Cf lâu đời nhất ngay tại trung tâm TP, hơn 30 năm
+  - Quán không bao giờ vắng khách, chủ yếu là lưá khách trung trung, có hút thuốc
+  - Quán này đặt biệt có các cô chú(vì làm lâu năm) phục vụ làm toàn thời gian, có nơi ở tại quán + đóng bảo hiểm như công việc toàn thời gian.
+  
+### [The Local Beans](https://thelocalbeans.com/)
+- Địa chỉ: 
+  - [56A Lê Hồng Phong](https://g.page/thelocalbeans?share)
+  - [84 Châu Thị Vĩnh Tế](https://goo.gl/maps/G6bNML96hS74Aetm6)
+    - Giá: 
+      - cf bình thường: 30-60k
+      - working space: 85k/ngày, free 1 ly nước bất kỳ
+    - Mô tả: 
+      - làm việc(tầng 3 có working space)
+      - làm gì cũng được, ý là ngồi vs bạn cũng đc, giá tầm trung và chất lượng, nhân viên xinh, có quen chủ :3
+  - [5D Refreshments Cafe Shop - 72 Lê Đình Dương](https://goo.gl/maps/DBKY1uD2YCixo4aWA), quán này là nơi khai sinh ra chuỗi The Local Beans
+    - Giá: cf sữa 18k(món khác k biết =)))
+    - Mô tả: 
+      - View công viên thoáng, sáng và tối có thể ngồi đó thở =)). 
+      - Tối combo bún quậy + cafe 5D thì coi như là relax xong một ngày làm việc mệt mỏi.
+    
 ### [43 Factory Coffee Roaster](https://g.page/43factorycoffeeroaster?share)
 - Địa chỉ: Lô 442 Đường Ngô Thì Sĩ
 - Giá: 90k trở lên
@@ -87,5 +121,6 @@
 ## Spa & Massage
 ### [Herbal Spa Da Nang](https://www.facebook.com/herbalspadanang/)
 - 201 Dương Đình Nghệ, ĐN
+
 
 
