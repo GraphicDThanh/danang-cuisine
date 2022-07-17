@@ -1,5 +1,5 @@
 <p align="center">
- <img align="center" alt="WeDabang Logo" src="./src/images/wedanang-logo.png" />
+ <img align="center" alt="WeDabang Logo" src="./src/images/wedanang-logo-landscape.png" />
 </p>
 
 # Đồ ăn thức uống Đà Nẵng, Việt Nam
