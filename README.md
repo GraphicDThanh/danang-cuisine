@@ -4,8 +4,15 @@
 
 # Đồ ăn thức uống Đà Nẵng, Việt Nam
 
-> Lượm by DaNang's Local Members And Friends
-
+> ✅ Lượm by DaNang's Local Members And Friends
+>
+> 👉 Mọi người vào thăm trang web của dự án ở https://danang.fyi/ 👈
+> 
+> 🙌 Và đóng góp nội dùng bằng cách fork repo này về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo này 🤝
+> 
+> 🚀 Cùng lưu lại những chỗ hay ho để đỡ tìm kiếm nào 🥳 
+> 
+> 🥰 Chia sẻ cho bạn bè ở xa đến Đà Nẵng chơi nữa ha. Đảm bảo ghi điểm vô cực nè 😇
 # Mục lục
 
 1. [Đồ ăn](#food)
