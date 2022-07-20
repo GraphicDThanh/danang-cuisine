@@ -7,10 +7,10 @@
 ### ✅ **Lượm by DaNang's Local Members And Friends**
 
 - 👉 Mọi người vào thăm trang web của dự án ở https://danang.fyi/
-- 🙌 Và đóng góp nội dùng bằng cách fork repo này về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo này
+- 🙌 Và đóng góp nội dùng bằng cách fork repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo trên
 - 🚀 Cùng lưu lại những chỗ hay ho để đỡ tìm kiếm nào
 - 🥰 Chia sẻ cho bạn bè ở xa đến Đà Nẵng chơi nữa ha. Đảm bảo ghi điểm vô cực nè
-- 🌟 Cuối cùng là hãy star ủng hộ dự án nha
+- 🌟 Cuối cùng là hãy [star repo `danang-cuisine`](https://github.com/GraphicDThanh/danang-cuisine) để ủng hộ dự án nha
 ---
 **Enjoy Your DaNang!**
 
