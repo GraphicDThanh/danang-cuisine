@@ -4,7 +4,7 @@
 
 # Đồ ăn thức uống Đà Nẵng, Việt Nam
 
-> Lượm by Webuild's local members
+> Lượm by DaNang's Local Members And Friends
 
 # Mục lục
 
@@ -117,6 +117,14 @@
   - Giá tầm 70 - 150k
   - Quán này ngon lắm, đặc biệt dân ghiền ốc, chip chip. Muốn ăn no thì gọi thêm bánh mỳ.
 
+### [Bánh Canh Cá Cô Cúc](https://www.foody.vn/da-nang/banh-canh-ca-nuong)
+- Địa chỉ: 82-84 Bùi Dương Lịch
+- Mô tả:
+  - Chỉ bán chiều tối
+  - Giá 12k/tô
+  - Bánh canh ngon, dân bên này gọi món này là "bánh canh heo", vì nấu cái nồi to, và múc ẩu như nấu cho heo ăn vậy đó =)))
+  - Tự phục vụ, xếp hàng đợi lấy bánh canh, ăn xong tự gọi tính tiền vì đông quá người ta không phục vụ luôn.
+  - Có thêm món nem chua, chả và cá nục nướng ăn kèm nếu thích. Ăn vô khát nước thêm ly nước mía nữa đúng bài luôn nghe. Ăn nhiều lắm mới hết được 50k ợ.
 ## <a name="cafe" /> Quán Cà phê
 
 ### [Cà phê Long](https://goo.gl/maps/LKjuWcahSAUTvGRg7)
@@ -260,3 +268,22 @@
 - Mô tả:
   - Buổi tối mát mẻ, sôi động. Sáng thì hơi vắng và nắng.
   - Bạn có thể gửi xe ở công viên Apec rồi tha hồ mà đi, khát nước thì có mấy cái cây bán nước tự động.
+
+
+### Đi bơi biển
+
+- Địa chỉ: Biển Phạm Văn Đồng
+- Mô tả: 
+  - Đi tắm biển vào trời mùa hè là lý tưởng nhất vì nước và không khí mát, ít người, sạch hơn buổi chiều.
+  - Nên gửi xe ở [bãi số 3](https://goo.gl/maps/vHKAMjMgkCVrSaxt5)(bãi xe xa nhất) vì bãi này ít người, giá xe máy(4k) + tắm 2k/người
+  - Nên đi trước khi mặt trời mọc(tầm 4:30-5:30AM) để ngắm bình minh trên biển bên cạnh núi Sơn Trà để hiểu nó phê như thế nào
+
+### Ngắm hoàng hôn và thăm luôn công viên kỳ quan(bé tẹo)
+
+- Địa chỉ: Đối diện [Đà Nẵng Golden Bay Hotel](https://g.page/wonder-park-danang?share)
+- Mô tả:
+  - Muốn ngắm hoàng hôn thì hãy đến đây khi trời vừa xuống núi(tầm 5:30-6PM) vào mùa hè
+  - Chỗ đây có cái bờ kè mọi người hay ra đó ngồi ngắm hoàng hôn bên chân cầu Thuận Phước
+  - Gần có công viên kỳ quan bạn có thể ghé luôn
+  - Vào buổi sáng thì ở đây cũng rất mát mẻ và thoáng thích hợp mua cà phê ra ngồi chill lắm
+  - Ngắm hoàng hôn xong vào làm tô bánh canh cô Cúc(ở trên) nữa là ấm lòng quân tử, xong đi dạo bên bờ sông Hàn buổi đêm nữa thì về ngủ ngon ạ.
