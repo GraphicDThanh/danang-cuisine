@@ -7,9 +7,10 @@
 ### ✅ **Lượm by DaNang's Local Members And Friends**
 
 - 👉 Mọi người vào thăm trang web của dự án ở https://danang.fyi/
-- 🙌 Và đóng góp nội dùng bằng cách fork repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo trên
-- 🚀 Cùng lưu lại những chỗ hay ho để đỡ tìm kiếm nào
-- 🥰 Chia sẻ cho bạn bè ở xa đến Đà Nẵng chơi nữa ha. Đảm bảo ghi điểm vô cực nè
+- 🙌 Và đóng góp nội dùug bằng cách `fork` repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo trên. 
+- 🙌 Nếu có thêm idea nào thì tạo issue ha
+- 🚀 Cùng lưu lại những chỗ hay ho để đỡ tìm kiếm nào!
+- 🥰 Chia sẻ cho bạn bè ở xa đến Đà Nẵng chơi nữa ha. Đảm bảo ghi điểm vô cực nè ^^
 - 🌟 Cuối cùng là hãy [star repo `danang-cuisine`](https://github.com/GraphicDThanh/danang-cuisine) để ủng hộ dự án nha
 ---
 **Enjoy Your DaNang!**
@@ -295,3 +296,10 @@
   - Gần có công viên kỳ quan bạn có thể ghé luôn
   - Vào buổi sáng thì ở đây cũng rất mát mẻ và thoáng thích hợp mua cà phê ra ngồi chill lắm
   - Ngắm hoàng hôn xong vào làm tô bánh canh cô Cúc(ở trên) nữa là ấm lòng quân tử, xong đi dạo bên bờ sông Hàn buổi đêm nữa thì về ngủ ngon ạ.
+
+
+
+---
+
+<h3 align="center">Enjoy Your DaNang And Share Your Favorite Place With Us 🥰
+</h3>
