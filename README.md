@@ -134,6 +134,16 @@
   - Bánh canh ngon, dân bên này gọi món này là "bánh canh heo", vì nấu cái nồi to, và múc ẩu như nấu cho heo ăn vậy đó =)))
   - Tự phục vụ, xếp hàng đợi lấy bánh canh, ăn xong tự gọi tính tiền vì đông quá người ta không phục vụ luôn.
   - Có thêm món nem chua, chả và cá nục nướng ăn kèm nếu thích. Ăn vô khát nước thêm ly nước mía nữa đúng bài luôn nghe. Ăn nhiều lắm mới hết được 50k ợ.
+
+### [Bếp Cuốn Đà Nẵng](https://goo.gl/maps/harPD6sjbPHPxpYQ7)
+- Địa chỉ: 54 Nguyễn Văn Thoại, Mỹ An, Ngũ Hành Sơn
+- Mô tả:
+  - Quán bán nhiều món ăn Việt Nam 
+  - Có bán cả cơm theo set, hoặc gọi món
+  - Giá tương đối cao so với mặt bằng (Tầm 100k 1 món)
+  - Recommend mọi người gọi "Mẹt Bếp Cuốn". Có đầy đủ các món ăn rất ngon. 
+  - Phù hợp với 2 người hoặc nhóm bạn, gia đình. 
+
 ## <a name="cafe" /> Quán Cà phê
 
 ### [Cà phê Long](https://goo.gl/maps/LKjuWcahSAUTvGRg7)
@@ -240,6 +250,13 @@
 - Mô tả:
   - Không gian đóng, DJ
   - Giá thành rẻ, phù hợp mọi giới trẻ
+
+### [Bar Libre](https://g.page/barlibredanang?share)
+
+- 125a Nguyễn Chí Thanh, Hải Châu 1, Hải Châu, Đà Nẵng
+- Mô tả:
+  - Không gian đóng, mở nhạc chill
+  - Phù hợp với việc muốn đi bar uống bia, trò chuyện mà không ồn ào. 
 
 ## <a name="spa" /> Spa & Massage
 
