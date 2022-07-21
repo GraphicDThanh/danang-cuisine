@@ -7,6 +7,7 @@
 ### ✅ **Lượm by DaNang's Local Members And Friends**
 
 - 👉 Mọi người vào thăm trang web của dự án ở https://danang.fyi/
+- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English version ở [đây](https://danang.fyi/src/versions/en.md)
 - 🙌 Và đóng góp nội dung bằng cách `fork` repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo trên. 
 - 🙌 Nếu có thêm idea nào thì tạo issue yêu cầu nhé.
 - 🚀 Cùng lưu lại những chỗ hay ho để đỡ tìm kiếm nào!
@@ -313,8 +314,6 @@
   - Gần có công viên kỳ quan bạn có thể ghé luôn
   - Vào buổi sáng thì ở đây cũng rất mát mẻ và thoáng thích hợp mua cà phê ra ngồi chill lắm
   - Ngắm hoàng hôn xong vào làm tô bánh canh cô Cúc(ở trên) nữa là ấm lòng quân tử, xong đi dạo bên bờ sông Hàn buổi đêm nữa thì về ngủ ngon ạ.
-
-
 
 ---
 
