@@ -28,6 +28,7 @@
 3. [Bar/Pub](#bar-pub)
 4. [Spa & Massage](#spa)
 5. [Đi dạo](#sight-seeing)
+6. [Chèo SUP](#rowing-sup)
 
 ## <a name="food"/> Đồ Ăn
 ### <a name="food-bun"/> Bún
@@ -323,6 +324,19 @@
   - Gần có công viên kỳ quan bạn có thể ghé luôn
   - Vào buổi sáng thì ở đây cũng rất mát mẻ và thoáng thích hợp mua cà phê ra ngồi chill lắm
   - Ngắm hoàng hôn xong vào làm tô bánh canh cô Cúc(ở trên) nữa là ấm lòng quân tử, xong đi dạo bên bờ sông Hàn buổi đêm nữa thì về ngủ ngon ạ.
+
+## <a name="rowing-sup" /> Chèo SUP & lướt sóng
+
+### Chèo SUP ngắm san hô Hòn Sụp
+
+- Địa chỉ: Tập trung tại cổng [Biển Mân Thái](https://bit.ly/3dnjvln) để nhận SUP hoặc gọi 0372149095(a Lâm) nếu không thấy ai
+- Thời gian : Buổi sáng bắt đầu 5h15 và buổi chiều bắt đầu 4h15
+- Thuê SUP : [SUP Đà Nẵng](https://www.facebook.com/thuesupdanang/)
+- Giá : 280k/1 SUP
+- Mô tả:
+  - Liên hệ Fanpage [SUP Đà Nẵng](https://www.facebook.com/thuesupdanang/) sau đó nhắn tin đặt SUP trước hoặc có thể đến tại [Biển Mân Thái](https://bit.ly/3dnjvln) để thuê
+  - Thời gian chèo SUP tầm 2 tiếng hoặc hơn, được cung cấp túi chống nước để mang theo đồ đạc hoặc có thể để trên bờ
+  - Chèo SUP vào mùa hè là một trãi nghiệm rất tuyệt vời biển rất êm, nước biển mát, view đỉnh cao núi Sơn Trà ngoài ra bạn có thể chèo ra Hòn Sụp để ngắm san hô 😎 😎
 
 ---
 
