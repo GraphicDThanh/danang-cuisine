@@ -24,6 +24,7 @@
    - [Mỳ Quảng](#food-my-quang)
    - [Bánh Canh](#food-banh-canh)
    - [Hải Sản](#food-hai-san)
+   - [Ăn Vặt](#food-an-vat)
    - [Món Khác](#food-khac)
 2. [Cafe](#cafe)
 3. [Bar/Pub](#bar-pub)
@@ -48,13 +49,14 @@
 - Địa chỉ: [109 Nguyễn Chí Thanh, Hải Châu 1, Hải Châu](https://goo.gl/maps/QCTbgwgqLbUwUUFK6)
 - Giá: Trung bình 30k
 
-#### [Bún Chả Hà Nội](https://www.google.com/maps/place/86+Huy+C%E1%BA%ADn,+Ho%C3%A0+C%C6%B0%E1%BB%9Dng+Nam,+H%E1%BA%A3i+Ch%C3%A2u,+%C4%90%C3%A0+N%E1%BA%B5ng,+Vietnam/@16.0328204,108.2158035,21z/data=!4m5!3m4!1s0x314219ed1b7436ab:0x82b44bb9ce7f4c2c!8m2!3d16.032982!4d108.2160783?hl=en-US)
+#### [Bún Chả Hà Nội](https://goo.gl/maps/GSWwQxsTqqd69fnq8)
 - Địa chỉ: ngã 4 - đối diện 86 Huy Cận, Hòa Cường, Hòa Cường Nam, Hải Châu, Da Nang, Vietnam
 - Giá: 20k/tô
 - Do chị chủ người Đà Nẵng làm nhưng vẫn mang hương vị bún chả Hà Nội, mức giá phải chăng, ăn vừa đủ no. Ông anh mình sáng nào cũng ăn món này (gần như không bỏ ngày nào).
 - Lưu ý:
   - Đây là quán bán đồ ăn sáng
   - Sau khi giải quyết tô bún chả có thể qua quán cafe đối diện - [White Cafe](https://www.foody.vn/da-nang/white-cafe-86-huy-can) làm 1 cốc cafe muối cho đủ combo buổi sáng
+  
 ### <a name="food-my-quang"/> Mỳ Quảng
 #### [Mỳ Quảng Bà Mua](https://www.facebook.com/MonNgonMyQuang)
 - Địa chỉ: [19-21 Trần Bình Trọng, Phước Ninh, Hải Châu](https://goo.gl/maps/Wy4EfWPDSc9nqg3g8)
@@ -110,6 +112,21 @@
   - Quán này ngon lắm, đặc biệt dân ghiền ốc, chip chip. Muốn ăn no thì gọi thêm bánh mỳ.
 
 
+### <a name="food-an-vat"/> Ăn Vặt
+
+#### [Bánh tráng trộn Hồng Gấm](https://www.foody.vn/da-nang/banh-trang-tron-hong-gam-dai-hoc-kien-truc)
+- Địa chỉ: Đường Núi Thành, bên cạnh đại học Kiến Trúc Đà Nẵng
+- Mô tả:
+  - Chỉ bán chiều tối, chỉ bán mang đi
+  - Giá: 20, 25k
+  - Có bánh tráng trộn, bánh tráng bơ, bánh trán cuốn sốt me, gỏi xoài
+
+#### [Ram cuốn cải](https://hanamihotel.com/2019/top-6-quan-ram-cuon-cai-da-nang/)
+- Địa chỉ: 272 Lê Duẩn, Hải Châu, Đà Nẵng
+- Giá: 15-30k/phần
+- Vào những ngày trơi chuyển lạnh, những ngày gió mùa về nếu được thưởng thức món ram cuốn cải ở đây thì tuyệt vời.
+
+
 ### <a name="food-khac"/> Món Khác
 #### [Bánh tráng thịt heo Đại Lộc](https://www.facebook.com/QuanDaiLoc.97TrungNuVuong/)
 - Địa chỉ: 97 Trưng Nữ Vương
@@ -117,10 +134,6 @@
 #### [Bánh Bèo - Nậm & Lọc Huế](https://www.foody.vn/da-nang/quan-van-nguyen-nhu-hanh)
 - Địa chỉ: 59 Thanh Tịnh, Liên Chiểu, ĐN
 
-#### [Ram cuốn cải](https://hanamihotel.com/2019/top-6-quan-ram-cuon-cai-da-nang/)
-- Địa chỉ: 272 Lê Duẩn, Hải Châu, Đà Nẵng
-- Giá: 15-30k/phần
-- Vào những ngày trơi chuyển lạnh, những ngày gió mùa về nếu được thưởng thức món ram cuốn cải ở đây thì tuyệt vời.
 
 #### [Chickpea Eatery - Vegan/Thuần Chay](https://www.facebook.com/chickpea.eatery)
 - Địa chỉ:
@@ -307,6 +320,12 @@
 - Mô tả: 
   - Buổi chiều tối lúc hoàng hôn lên đây đi dạo ngắm cảnh có khoảng không gian rất rộng, mát, đẹp
   - Buổi tối, genZ sẽ ra đây ngồi nhậu, ăn uống, hát hò, ... Nói chung là vui và và vẫn rất lịch sự, yên tĩnh tụ tập từng nhóm nhỏ ngồi trên cầu.
+
+### Đi dạo xe máy
+- Nếu đi xe máy vòng vòng thì có mấy con đường nhiều cây cối mát như:
+  - Nguyễn Chí Thanh(một chiều) đoạn từ giao Lê Duẩn đến hết đường
+  - Phan Châu Trinh(một chiều) đoạn từ giao Nguyễn Văn Linh đến hết đường
+  - Thanh Thủy đoạn từ giao Ông Ích Khiêm ra đến 3/2
   
 ### Đi bơi biển
 
