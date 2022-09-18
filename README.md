@@ -7,14 +7,16 @@
 ### ✅ **Lượm by DaNang's Local Members And Friends**
 
 - 👉 Mọi người vào thăm trang web của dự án ở https://danang.fyi/
-  - Lưu ý: Hiện tại khi bấm vào link trên trang web thì chưa di chuyển đến nội dung được, nên bạn chịu khó lướt xuống để xem nha. Nếu muốn chọn phân mục thì vào hẳn repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) này nhé.   
+  - Lưu ý: Hiện tại khi bấm vào link trên trang web thì chưa di chuyển đến nội dung được, nên bạn chịu khó lướt xuống để xem nha. Nếu muốn chọn phân mục thì vào hẳn repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) này nhé.
 - 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English version [here](https://danang.fyi/src/versions/en.md)(WIP)
-- 🙌 Và đóng góp nội dung bằng cách `fork` repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo trên. 
+- 🙌 Và đóng góp nội dung bằng cách `fork` repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo trên.
 - 🙌 Nếu có thêm idea nào thì tạo issue yêu cầu nhé!
 - 🚀 Cùng lưu lại những chỗ hay ho để đỡ tìm kiếm nào!
 - 🥰 Chia sẻ cho bạn bè ở xa đến Đà Nẵng chơi nữa ha. Đảm bảo ghi điểm vô cực nè ^^
 - 🌟 Cuối cùng là hãy [star repo `danang-cuisine`](https://github.com/GraphicDThanh/danang-cuisine) để ủng hộ dự án nha
+
 ---
+
 **Enjoy Your DaNang!**
 
 # Mục lục
@@ -33,40 +35,50 @@
 6. [Chèo SUP](#rowing-sup)
 
 ## <a name="food"/> Đồ Ăn
+
 ### <a name="food-bun"/> Bún
+
 #### [Bún Quậy Phú Quốc](https://g.page/bunquaydacsanphuquoc?share)
+
 - Địa chỉ: 61 Huỳnh Thúc Kháng
 - Giá: 40-60k/tô
 - Bún tươi làm tại chỗ, hải sản tươi, ngon và phù hợp đi một mình hoặc ít người
-  
+
 #### Bún Bò Huế
+
 - Địa chỉ: Kiệt, 123 Nguyễn Thị Minh Khai, ĐN
 - Mô tả:
   - chỉ bán sáng, giá 40-60k
   - đi tắm biển về mà vào làm tô bún này là hết xẩy :))
 
 ### Bún chả cá 109
+
 - Địa chỉ: [109 Nguyễn Chí Thanh, Hải Châu 1, Hải Châu](https://goo.gl/maps/QCTbgwgqLbUwUUFK6)
 - Giá: Trung bình 30k
 
 #### [Bún Chả Hà Nội](https://goo.gl/maps/GSWwQxsTqqd69fnq8)
+
 - Địa chỉ: ngã 4 - đối diện 86 Huy Cận, Hòa Cường, Hòa Cường Nam, Hải Châu, Da Nang, Vietnam
 - Giá: 20k/tô
 - Do chị chủ người Đà Nẵng làm nhưng vẫn mang hương vị bún chả Hà Nội, mức giá phải chăng, ăn vừa đủ no. Ông anh mình sáng nào cũng ăn món này (gần như không bỏ ngày nào).
 - Lưu ý:
   - Đây là quán bán đồ ăn sáng
   - Sau khi giải quyết tô bún chả có thể qua quán cafe đối diện - [White Cafe](https://www.foody.vn/da-nang/white-cafe-86-huy-can) làm 1 cốc cafe muối cho đủ combo buổi sáng
-  
+
 ### <a name="food-my-quang"/> Mỳ Quảng
+
 #### [Mỳ Quảng Bà Mua](https://www.facebook.com/MonNgonMyQuang)
+
 - Địa chỉ: [19-21 Trần Bình Trọng, Phước Ninh, Hải Châu](https://goo.gl/maps/Wy4EfWPDSc9nqg3g8)
 - Giá: Từ 45k
 - Nên ăn ở Trần Bình Trọng, dù có nhiều chi nhánh nhưng tính nhất quán về gia vị là khác nhau, kể cả hũ ớt thì chi nhánh Hồ Nghinh đã khác hoàn toàn so với chi nhánh gốc
 
 #### [Mỳ Quảng Sứa Hồng Vân](https://www.foody.vn/da-nang/mi-quang-sua-hong-van)
+
 - Địa chỉ: 59 Lê Hồng Phong
 
 #### [Mỳ Quảng Vỉa Hè](https://goo.gl/maps/wqj459sbvtSXf9ZU6)
+
 - Địa chỉ: Bên trái viện kiểm soát Sơn Trà =)), đối diện Achcha Book Coffee chỗ công viên
 - Mô tả:
   - Chỉ bán sáng sớm(6-8AM), tầm 8g là hết
@@ -77,11 +89,13 @@
 ### <a name="food-banh-canh"/> Bánh Canh
 
 #### Bánh Canh Cua Dì Tuyền
+
 - [Video](https://www.youtube.com/watch?v=YEmfsxXy61M)
 - Địa chỉ: [9 Bình Minh 2](https://goo.gl/maps/xfSEU78d3uAtM6ja8)
 - Lưu ý: chỉ bán 1 tiếng rưỡi, bắt đầu lúc 4:30PM
 
 #### [Bánh Canh Cá Cô Cúc](https://www.foody.vn/da-nang/banh-canh-ca-nuong)
+
 - Địa chỉ: 82-84 Bùi Dương Lịch
 - Mô tả:
   - Chỉ bán chiều tối
@@ -91,30 +105,34 @@
   - Có thêm món nem chua, chả và cá nục nướng ăn kèm nếu thích. Ăn vô khát nước thêm ly nước mía nữa đúng bài luôn nghe. Ăn nhiều lắm mới hết được 50k ợ.
 
 #### [Bánh Canh Cá Lóc Hiền](https://www.foody.vn/da-nang/quan-hien-dac-san-quang-tri-huynh-thuc-khang)
+
 - Địa chỉ: 134 Huỳnh Thúc Kháng
 - Mô tả:
   - Quá bán bánh canh Quảng Trị, bánh ướt lòng heo, bún mắm
   - Giá: 25k/tô, nem, chả 5k
-  - Bánh canh ngon, cay, ai thích ăn hành gọi  nhiều hành giải cảm thì đúng bài luôn
+  - Bánh canh ngon, cay, ai thích ăn hành gọi nhiều hành giải cảm thì đúng bài luôn
 
 ### <a name="food-hai-san"/> Hải Sản
+
 #### [Hải Sản Năm Đảnh](https://github.com/GraphicDThanh/danang-cuisine)
+
 - Địa chỉ: 139/59/38/10 Trần Quang Khải, Thọ Quang, Sơn Trà, Đà Nẵng
 - Lưu ý:
   - đi sớm 5-5:30PM để chọn bàn, quán nghỉ lúc 8:30PM
   - ăn bể bụng và rẻ lắm nên nếu được hãy nhịn ăn trưa và chuẩn bị men tiêu hóa
 
 #### [Ốc Cay Hà Nội](https://www.foody.vn/da-nang/oc-cay-ha-noi-ong-ich-khiem)
+
 - Địa chỉ: 174-176 Ông Ích Khiêm
 - Mô tả:
   - Chỉ bán chiều tối, mở cửa từ 4PM
   - Giá tầm 70 - 150k
   - Quán này ngon lắm, đặc biệt dân ghiền ốc, chip chip. Muốn ăn no thì gọi thêm bánh mỳ.
 
-
 ### <a name="food-an-vat"/> Ăn Vặt
 
 #### [Bánh tráng trộn Hồng Gấm](https://www.foody.vn/da-nang/banh-trang-tron-hong-gam-dai-hoc-kien-truc)
+
 - Địa chỉ: Đường Núi Thành, bên cạnh đại học Kiến Trúc Đà Nẵng
 - Mô tả:
   - Chỉ bán chiều tối, chỉ bán mang đi
@@ -122,20 +140,23 @@
   - Có bánh tráng trộn, bánh tráng bơ, bánh trán cuốn sốt me, gỏi xoài
 
 #### [Ram cuốn cải](https://hanamihotel.com/2019/top-6-quan-ram-cuon-cai-da-nang/)
+
 - Địa chỉ: 272 Lê Duẩn, Hải Châu, Đà Nẵng
 - Giá: 15-30k/phần
 - Vào những ngày trơi chuyển lạnh, những ngày gió mùa về nếu được thưởng thức món ram cuốn cải ở đây thì tuyệt vời.
 
-
 ### <a name="food-khac"/> Món Khác
+
 #### [Bánh tráng thịt heo Đại Lộc](https://www.facebook.com/QuanDaiLoc.97TrungNuVuong/)
+
 - Địa chỉ: 97 Trưng Nữ Vương
 
 #### [Bánh Bèo - Nậm & Lọc Huế](https://www.foody.vn/da-nang/quan-van-nguyen-nhu-hanh)
+
 - Địa chỉ: 59 Thanh Tịnh, Liên Chiểu, ĐN
 
-
 #### [Chickpea Eatery - Vegan/Thuần Chay](https://www.facebook.com/chickpea.eatery)
+
 - Địa chỉ:
   - 73/12 Truong Dinh, Da Nang
   - 86/5 Phan Chau Trinh, Hoi An
@@ -144,6 +165,7 @@
   - Vào đây mn sẽ gặp rất nhiều Tây :)) Vì cô chủ là founder của ["Xuân Tú VietNam Tour"](https://xuantuvietnamtours.com/) - 1st private tourguide in DN
 
 #### [Nhóm bán đồ ăn sáng](https://goo.gl/maps/mJ5UCLW1AgQPLXcV8)
+
 - Địa chỉ: Ngã ba Nguyễn Chí Thanh và Hải Phòng, đối diện The Coffee House, bên cạnh trường THPT Phan Châu Trinh
 - Mô tả:
   - Chỉ bán sáng
@@ -154,13 +176,27 @@
   - Sữa và các loại bánh tiêu, bánh bò, bánh da heo
 
 #### [Bếp Cuốn Đà Nẵng](https://goo.gl/maps/harPD6sjbPHPxpYQ7)
+
 - Địa chỉ: 54 Nguyễn Văn Thoại, Mỹ An, Ngũ Hành Sơn
 - Mô tả:
-  - Quán bán nhiều món ăn Việt Nam 
+  - Quán bán nhiều món ăn Việt Nam
   - Có bán cả cơm theo set, hoặc gọi món
   - Giá tương đối cao so với mặt bằng (Tầm 100k 1 món)
-  - Recommend mọi người gọi "Mẹt Bếp Cuốn". Có đầy đủ các món ăn rất ngon. 
-  - Phù hợp với 2 người hoặc nhóm bạn, gia đình. 
+  - Recommend mọi người gọi "Mẹt Bếp Cuốn". Có đầy đủ các món ăn rất ngon.
+  - Phù hợp với 2 người hoặc nhóm bạn, gia đình.
+
+#### [Cơm Nhà Vui - Lẩu Riêu Hà Nội](https://goo.gl/maps/apk8Eg4Wgmtu9Q7D8)
+
+- Địa chỉ:
+  - CS1: 86 Đường 2/9, Hải Châu, TP Đà Nẵng
+  - CS2: 133 Hà Bổng, Sơn Trà, TP Đà Nẵng
+- Mô tả:
+  - Quán phục vụ cơm trưa, ngon như cơm nhà.
+- Món ăn:
+  - Quán bán nhiều món ăn Việt Nam
+  - Có bán cả cơm theo set, hoặc gọi món
+  - Giá tương đối rẻ
+  - Phù hợp với nhóm bạn hoặc gia đình.
 
 ## <a name="cafe" /> Quán Cà phê
 
@@ -237,6 +273,42 @@
 - Mô tả:
   - Quán mang trong mình hơi hướng cổ điển theo phong cách Châu Âu và không gian đủ yên tĩnh và thoải mái để làm việc và đọc sách
 
+### [MYAN Coffee & Milktea](https://www.facebook.com/myankit273)
+
+- Địa chỉ: [K55/15 Nguyễn Chí Thanh, Đà Nẵng.](https://goo.gl/maps/jKawsJSFbFpaTJwD7)
+- Địa chỉ: [925/11 Ngô Quyền , Đà Nẵng](https://goo.gl/maps/doTFi3Bft1oLi6Ba9)
+- Giá nước trung bình 25-30k, có bán cả bánh
+- Mở cửa lúc 07:00–22:15
+- Mô tả:
+  - Quán mang phong cách sân vườn, retro thiên hướng hiện đại. Phù hợp để thư giãn với bạn bè dịp cuối tuần
+
+### [7AM](https://www.facebook.com/7amcoffeedn/)
+
+- Địa chỉ: [9 Nguyễn Thiện Thuật, Đà Nẵng.](https://goo.gl/maps/i9CXybY7CZjvzM186)
+- Giá nước trung bình 25-35k
+- Mở cửa lúc 07:00–22:15
+- Mô tả:
+  - Quán mang phong cách sân vườn, có không gian để có thể học tập.
+
+### [Nối Cafe](https://www.facebook.com/NoiCafeDaNang/)
+
+- Địa chỉ: [113/18 - Nguyễn Chí Thanh - Đà Nẵng](https://g.page/noicafe?share)
+- Địa chỉ: [113/14 - Nguyễn Chí Thanh - Đà Nẵng](https://g.page/noicafe?share)
+- Địa chỉ: [113/25 - Nguyễn Chí Thanh - Đà Nẵng](https://g.page/noicafe?share)
+- Giá nước trung bình 25k
+- Mở cửa lúc 06:30–22:00
+- Mô tả:
+  - Quán mang phong cách bao cấp, quán cf quen thuộc và nổi tiếng với giới trẻ Đà Nẵng.
+
+### [Tiệm Cà Phê Cậu Út](https://www.facebook.com/caphecauut)
+
+- Địa chỉ: [34 Lê Hồng Phong, Hải Châu - Đà Nẵng](https://goo.gl/maps/pVt3oeEdY3gWfPhN8)
+- Địa chỉ: [99 Âu Cơ, Liên Chiểu - Đà Nẵng](https://goo.gl/maps/eSSMQj4Y3C7sKScs9)
+- Giá nước trung bình 30k
+- Mở cửa lúc 07:00–22:00
+- Mô tả:
+  - Quán mang phong cách bao cấp, phù hợp với những buổi hẹn cuối tuần với bạn bè và gia đình. Quán có không gian tầng 2 khá chill và phù hợp với đọc sách.
+
 ## <a name="bar-pub" /> Quán Bar/Pub
 
 ### Esco Beach
@@ -274,7 +346,7 @@
 - 125a Nguyễn Chí Thanh, Hải Châu 1, Hải Châu, Đà Nẵng
 - Mô tả:
   - Không gian đóng, mở nhạc chill
-  - Phù hợp với việc muốn đi bar uống bia, trò chuyện mà không ồn ào. 
+  - Phù hợp với việc muốn đi bar uống bia, trò chuyện mà không ồn ào.
 
 ## <a name="spa" /> Spa & Massage
 
@@ -314,23 +386,25 @@
   - Bạn có thể gửi xe ở công viên Apec rồi tha hồ mà đi, khát nước thì có mấy cái cây bán nước tự động.
 
 ### Đi dạo trên cầu đi bộ Nguyễn Văn Trỗi
+
 - Địa chỉ: Có 2 hướng có thể đi bộ lên cầu Nguyễn Văn Trỗi:
   - 1. Chân cầu Trần Thị Lý(buổi tối đông đúc, có bán nước và đồ ăn vặt). Đến thì cứ xếp xe vào rồi đi chơi thôi chứ không thấy ai giữ xe.
   - 2. Đi bộ từ bên khu đảo xanh qua(không nên đi hướng này vì vắng vẻ, không ai trông xe)
-- Mô tả: 
+- Mô tả:
   - Buổi chiều tối lúc hoàng hôn lên đây đi dạo ngắm cảnh có khoảng không gian rất rộng, mát, đẹp
   - Buổi tối, genZ sẽ ra đây ngồi nhậu, ăn uống, hát hò, ... Nói chung là vui và và vẫn rất lịch sự, yên tĩnh tụ tập từng nhóm nhỏ ngồi trên cầu.
 
 ### Đi dạo xe máy
+
 - Nếu đi xe máy vòng vòng thì có mấy con đường nhiều cây cối mát như:
   - Nguyễn Chí Thanh(một chiều) đoạn từ giao Lê Duẩn đến hết đường
   - Phan Châu Trinh(một chiều) đoạn từ giao Nguyễn Văn Linh đến hết đường
   - Thanh Thủy đoạn từ giao Ông Ích Khiêm ra đến 3/2
-  
+
 ### Đi bơi biển
 
 - Địa chỉ: Biển Phạm Văn Đồng
-- Mô tả: 
+- Mô tả:
   - Đi tắm biển vào trời mùa hè là lý tưởng nhất vì nước và không khí mát, ít người, sạch hơn buổi chiều.
   - Nên gửi xe ở [bãi số 3](https://goo.gl/maps/vHKAMjMgkCVrSaxt5)(bãi xe xa nhất) vì bãi này ít người, giá xe máy(4k) + tắm 2k/người
   - Nên đi trước khi mặt trời mọc(tầm 4:30-5:30AM) để ngắm bình minh trên biển bên cạnh núi Sơn Trà để hiểu nó phê như thế nào
