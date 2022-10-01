@@ -154,6 +154,13 @@
 #### [Bánh Bèo - Nậm & Lọc Huế](https://www.foody.vn/da-nang/quan-van-nguyen-nhu-hanh)
 
 - Địa chỉ: 59 Thanh Tịnh, Liên Chiểu, ĐN
+- Giá: 6k - 30k
+- Mô tả: 
+  - Món: bèo chén, lọc, nậm, bánh ướt, nem, chả, sữa chua
+  - gọi theo dĩa (nhỏ / lớn)
+  - quán bán trưa tới chiều (hết sớm tầm 6PM)
+  - quán siêu đông vì bắt rất đông khách, có thể gọi là đại bản doanh bánh bèo, lọc, nậm Huế. Nếu đi Huế chỉ để ăn mấy món này thì ăn đây cũng được =))
+  - quán có món sữa chua siêu ngon chỉ 6k
 
 #### [Chickpea Eatery - Vegan/Thuần Chay](https://www.facebook.com/chickpea.eatery)
 
