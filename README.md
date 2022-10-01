@@ -233,6 +233,13 @@
 - Giá: 90k trở lên
 - Phù hợp: người chuyên thưởng thức cafe rang xay
 
+### [Cam Cafe](https://camcafe-cafe.business.site/)
+
+- Địa chỉ: 75 Nguyễn Du
+- Giá: 15 - 50k
+- Phù hợp: đường vắng yên tĩnh, không gian thoáng phù hợp ngồi cf sáng sớm cuối tuần
+- Mô tả: cf muối (25k)) và cf muối kem cheese (35k) siêu ngon
+
 ### [BreadnSalt Café](https://www.facebook.com/breadnsalt.cafe)
 
 - Địa chỉ: [84 Hoàng Kế Viêm, Bắc Mỹ Phú, Ngũ Hành Sơn](https://g.page/breadnsalt?share)
