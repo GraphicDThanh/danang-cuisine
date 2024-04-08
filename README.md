@@ -5,15 +5,10 @@
 # Đồ ăn thức uống Đà Nẵng, Việt Nam
 
 ### ✅ **Lượm by DaNang's Local Members And Friends**
-
-- 👉 Mọi người vào thăm trang web của dự án ở https://danang.fyi/
-  - Lưu ý: Hiện tại khi bấm vào link trên trang web thì chưa di chuyển đến nội dung được, nên bạn chịu khó lướt xuống để xem nha. Nếu muốn chọn phân mục thì vào hẳn repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) này nhé.
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English version [here](https://danang.fyi/src/versions/en.md)(WIP)
-- 🙌 Và đóng góp nội dung bằng cách `fork` repo [danang-cuisine](https://github.com/GraphicDThanh/danang-cuisine) về tài khoản cá nhân, chỉnh sửa commit xong thì tạo PR(pull request) vào repo trên.
 - 🙌 Nếu có thêm idea nào thì tạo issue yêu cầu nhé!
 - 🚀 Cùng lưu lại những chỗ hay ho để đỡ tìm kiếm nào!
 - 🥰 Chia sẻ cho bạn bè ở xa đến Đà Nẵng chơi nữa ha. Đảm bảo ghi điểm vô cực nè ^^
-- 🌟 Cuối cùng là hãy [star repo `danang-cuisine`](https://github.com/GraphicDThanh/danang-cuisine) để ủng hộ dự án nha
+- 🌟 Cuối cùng là hãy [star repo `danang-cuisine`](https://github.com/GraphicDThanh/danang-cuisine) 🌟
 
 ---
 
@@ -204,6 +199,16 @@
   - Có bán cả cơm theo set, hoặc gọi món
   - Giá tương đối rẻ
   - Phù hợp với nhóm bạn hoặc gia đình.
+ 
+#### [Miến Măng Gà & Bún Măng Gà Cô Nhâm - Tố Hữu](https://g.co/kgs/8Ke23Ni)
+
+- Địa chỉ: 22 Tố Hữu, TP Đà Nẵng
+- Mô tả:
+  - Quán phục vụ đồ ăn sáng
+- Món ăn:
+  - Miến Măng Gà (30k)
+  - Bún Măng Gà (25k) 
+
 
 ## <a name="cafe" /> Quán Cà phê
 
