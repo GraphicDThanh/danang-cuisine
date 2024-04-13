@@ -150,7 +150,7 @@
 
 - Địa chỉ: 59 Thanh Tịnh, Liên Chiểu, ĐN
 - Giá: 6k - 30k
-- Mô tả: 
+- Mô tả:
   - Món: bèo chén, lọc, nậm, bánh ướt, nem, chả, sữa chua
   - gọi theo dĩa (nhỏ / lớn)
   - quán bán trưa tới chiều (hết sớm tầm 6PM)
@@ -199,7 +199,7 @@
   - Có bán cả cơm theo set, hoặc gọi món
   - Giá tương đối rẻ
   - Phù hợp với nhóm bạn hoặc gia đình.
- 
+
 #### [Miến Măng Gà & Bún Măng Gà Cô Nhâm - Tố Hữu](https://g.co/kgs/8Ke23Ni)
 
 - Địa chỉ: 22 Tố Hữu, TP Đà Nẵng
@@ -207,7 +207,7 @@
   - Quán phục vụ đồ ăn sáng
 - Món ăn:
   - Miến Măng Gà (30k)
-  - Bún Măng Gà (25k) 
+  - Bún Măng Gà (25k)
 
 
 ## <a name="cafe" /> Quán Cà phê
@@ -233,11 +233,10 @@
     - Mô tả:
       - làm việc(tầng 3 có working space)
       - làm gì cũng được, ý là ngồi vs bạn cũng đc, giá tầm trung và chất lượng, nhân viên xinh, có quen chủ :3
-  - [5D Refreshments Cafe Shop - 72 Lê Đình Dương](https://goo.gl/maps/DBKY1uD2YCixo4aWA), quán này là nơi khai sinh ra chuỗi The Local Beans
-    - Giá: cf sữa 18k(món khác k biết =)))
+  - [186 Phan Châu Trinh](https://maps.app.goo.gl/edQf8TPuizwtgbJN7) - Premium
+    - Giá: Vì Premium nên giá cao hơn, tầm 50-100k =)))
     - Mô tả:
-      - View công viên thoáng, sáng và tối có thể ngồi đó thở =)).
-      - Tối combo bún quậy + cafe 5D thì coi như là relax xong một ngày làm việc mệt mỏi.
+      - Premium, view đẹp, không gian thoáng, phù hợp làm việc, hẹn hò, tụ tập bạn bè
 
 ### [43 Factory Coffee Roaster](https://g.page/43factorycoffeeroaster?share)
 
