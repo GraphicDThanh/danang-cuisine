@@ -124,6 +124,19 @@
   - Giá tầm 70 - 150k
   - Quán này ngon lắm, đặc biệt dân ghiền ốc, chip chip. Muốn ăn no thì gọi thêm bánh mỳ.
 
+
+### <a name="food-hai-san"/> Ẩm thực Trung Hoa
+
+#### [Tiêm ăn Nhà Gạo](https://www.facebook.com/p/B%C3%A1nh-Cu%E1%BB%91n-Gia-Truy%E1%BB%81n-Qu%E1%BA%A3ng-%C4%90%C3%B4ng-Ti%E1%BB%87m-Nh%C3%A0-G%E1%BA%A1o-100082244542443/))
+
+- Địa chỉ: 123 Nguyễn Trung Trực, Sơn Trà, Đà Nẵng
+- Lưu ý:giờ mở cửa 6-10AM, 11-13:30PM, 17:00-20:30PM
+- Mô tả:
+  - Quán có bán cuốn gia truyền Quảng Đông siêuuu ngon (bánh cuốn bắp mỹ chỉ 20k, còn cuốn tôm thì siêu to và tươi)
+  - Quán có hoành thánh nước ngon
+  - Nói chung menu ngon nhắm, ăn là ghiền ó mấy ní
+
+
 ### <a name="food-an-vat"/> Ăn Vặt
 
 #### [Bánh tráng trộn Hồng Gấm](https://www.foody.vn/da-nang/banh-trang-tron-hong-gam-dai-hoc-kien-truc)
