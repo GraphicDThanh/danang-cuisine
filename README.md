@@ -60,6 +60,12 @@
   - Đây là quán bán đồ ăn sáng
   - Sau khi giải quyết tô bún chả có thể qua quán cafe đối diện - [White Cafe](https://www.foody.vn/da-nang/white-cafe-86-huy-can) làm 1 cốc cafe muối cho đủ combo buổi sáng
 
+#### Bún Cô Phú 
+
+- Địa chỉ: 78 Khúc Hạo
+- Giá: 20-40k/tô
+- Lưu ý: bán chiều tối
+
 ### <a name="food-my-quang"/> Mỳ Quảng
 
 #### [Mỳ Quảng Bà Mua](https://www.facebook.com/MonNgonMyQuang)
