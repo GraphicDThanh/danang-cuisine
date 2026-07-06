@@ -17,19 +17,36 @@
 # Mục lục
 
 1. [Đồ ăn](#food)
+   - [Cơm](#food-com)
    - [Bún](#food-bun)
    - [Mỳ Quảng](#food-my-quang)
    - [Bánh Canh](#food-banh-canh)
    - [Hải Sản](#food-hai-san)
    - [Ăn Vặt](#food-an-vat)
    - [Món Khác](#food-khac)
-2. [Cafe](#cafe)
-3. [Bar/Pub](#bar-pub)
-4. [Spa & Massage](#spa)
-5. [Đi dạo](#sight-seeing)
-6. [Chèo SUP](#rowing-sup)
+3. [Cafe](#cafe)
+4. [Bar/Pub](#bar-pub)
+5. [Spa & Massage](#spa)
+6. [Đi dạo](#sight-seeing)
+7. [Chèo SUP](#rowing-sup)
 
 ## <a name="food"/> Đồ Ăn
+
+### <a name="food-com"/> Cơm
+
+#### [Cơm gà bà Thuỷ Hội An](https://share.google/lpQ7m7AdChxZhCmBo)
+
+- Địa chỉ: 279 Chính Hữu
+- Giá: 45k-70k
+- Cơm gà ngon, chất lượng. Quán gia đình chất lượng gà và giá thích hợp cho khách du lịch, khách yêu thích chất lượng.
+- Món mình thích nhất là gà luộc tự xé ăn kèm với rau, dưa leo, cà chua và kim chi.
+- Khi ăn cùng gia đình thì nên gọi canh riêng sẽ chất lượng hơn, canh rong biển sẽ có tôm to rất ngon.
+
+#### [Cơm gà Hồng Ngọc](https://share.google/dB9BS4xg5DP9phOMa)
+
+- Địa chỉ: 193 Nguyễn Chí Thanh
+- Giá: 45k-70k
+- Cơm gà ngon nổi tiếng ở Đà Nẵng. Quán rộng rãi có thể phục vụ số lượng khách lớn.
 
 ### <a name="food-bun"/> Bún
 
@@ -412,7 +429,7 @@
 
 ## <a name="sight-seeing" /> Đi dạo
 
-### Đi dạo trên núi
+### Đi dạo trên núi Sơn Trà
 
 - Địa chỉ: Bắt đầu từ ["Trạm Canh Gác Bán Đảo Sơn Trà"](https://goo.gl/maps/TxacQaqZGgYsmAzv8) đến [Đồi Vọng Cảnh](https://goo.gl/maps/tAZFKyfau9j63B1LA)
 - Mô tả:
@@ -487,6 +504,24 @@
   - Liên hệ Fanpage [SUP Đà Nẵng](https://www.facebook.com/thuesupdanang/) sau đó nhắn tin đặt SUP trước hoặc có thể đến tại [Biển Mân Thái](https://bit.ly/3dnjvln) để thuê
   - Thời gian chèo SUP tầm 2 tiếng hoặc hơn, được cung cấp túi chống nước để mang theo đồ đạc hoặc có thể để trên bờ
   - Chèo SUP vào mùa hè là một trãi nghiệm rất tuyệt vời biển rất êm, nước biển mát, view đỉnh cao núi Sơn Trà ngoài ra bạn có thể chèo ra Hòn Sụp để ngắm san hô 😎 😎
+
+## <a name="treaking" /> Leo núi
+### Leo xuống Ghềnh Bàng
+
+- Địa chỉ: Ghềnh Bàng, Sơn Trà
+- Giá: 10-30k (giữ xe, uống nước)
+- Mô tả:
+  - Tập trung tại quán cà phê Ghềnh Bàng. Bạn đi đến cuối đường lên Intercon sẽ thấy 1 trạm gác. Nhìn bên phải sẽ có đường vào 1 quán cafe nhỏ (có nhiều cây bàng)
+  - Gửi xe và hỏi thăm, sẽ có một lối đi vào rừng. Bạn sẽ leo núi khoảng 15-20p sẽ đến Ghềnh Bàng. Đường núi rất khó đi nên mang theo nước, mũ, giày thể thao cho dễ di chuyển.
+  - Đường trong rừng khá mát, nhưng xuống Ghềnh Bàng rất hoang sơ và đẹp. Có thể mang thêm đồ ăn để ăn phụ, nghỉ ngơi.
+
+### Leo đường rừng Hải Vân
+
+- Địa chỉ: Đỉnh Hải Vân Quan (https://maps.app.goo.gl/jVHNZdiGksVtieUFA)
+- Giá: 0
+- Mô tả:
+  - Khi lên đến Hải Vân Quan, bạn để xe / giữ xe
+  - Bên cạnh sẽ có một con đường xuyên núi có thể treaking view rất đẹp
 
 ---
 
