@@ -87,6 +87,13 @@
   - Cô này sáng nào cũng đi xe từ Quảng Nam ra đây bán, rau quê nên ăn xả láng luôn
   - Cái tô mỳ khổng lồ, nữ ăn nhớ dặn bỏ ít mỳ, chứ cô quen tay bỏ nhiều lắm @@
 
+#### [Mỳ Tôm Mực Thông Thành](https://g.page/bunquaydacsanphuquoc?share)
+
+- Địa chỉ: Lô 17 Hoàng Sa, Sơn Trà, Đà Nẵng (đối diện bãi tắm Mân Thái)
+- Giá: 40-60k/tô
+- Ngon tuyệt nếu ăn sau khi chèo SUP, tắm biển. Ngon số 2 sau khi 5g chạy vòng Sơn Trà một vòng roài ghé vào ăn
+- Mực tươi rói siêu ngon. Nếu sợ đen miêng thì nói bỏ túi mực (bình thường họ sẽ không lấy túi mực ra đâu nhé - vì để cho ngọt nước)
+
 ### <a name="food-banh-canh"/> Bánh Canh
 
 #### [Bánh Canh Cá Cô Cúc](https://www.foody.vn/da-nang/banh-canh-ca-nuong)
