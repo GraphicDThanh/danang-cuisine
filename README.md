@@ -78,9 +78,9 @@
 
 - Địa chỉ: 59 Lê Hồng Phong
 
-#### [Mỳ Quảng Vỉa Hè](https://goo.gl/maps/wqj459sbvtSXf9ZU6)
+#### [Mỳ Quảng Vỉa Hè]([https://goo.gl/maps/wqj459sbvtSXf9ZU6](https://maps.app.goo.gl/3UofRQcmJy12LZc37))
 
-- Địa chỉ: Bên trái viện kiểm soát Sơn Trà =)), đối diện Achcha Book Coffee chỗ công viên
+- Địa chỉ: Ngã tư viện kiểm soát Sơn Trà và chợ Hà Thân =)), đối diện xéo chỗ công viên
 - Mô tả:
   - Chỉ bán sáng sớm(6-8AM), tầm 8g là hết
   - Mỳ quảng siêu ngonnn, giá 15k-20k(chưa ăn chỗ nào ngon hơn và rẻ hơn)
@@ -88,12 +88,6 @@
   - Cái tô mỳ khổng lồ, nữ ăn nhớ dặn bỏ ít mỳ, chứ cô quen tay bỏ nhiều lắm @@
 
 ### <a name="food-banh-canh"/> Bánh Canh
-
-#### Bánh Canh Cua Dì Tuyền
-
-- [Video](https://www.youtube.com/watch?v=YEmfsxXy61M)
-- Địa chỉ: [9 Bình Minh 2](https://goo.gl/maps/xfSEU78d3uAtM6ja8)
-- Lưu ý: chỉ bán 1 tiếng rưỡi, bắt đầu lúc 4:30PM
 
 #### [Bánh Canh Cá Cô Cúc](https://www.foody.vn/da-nang/banh-canh-ca-nuong)
 
@@ -112,6 +106,14 @@
   - Quá bán bánh canh Quảng Trị, bánh ướt lòng heo, bún mắm
   - Giá: 25k/tô, nem, chả 5k
   - Bánh canh ngon, cay, ai thích ăn hành gọi nhiều hành giải cảm thì đúng bài luôn
+
+#### [Bánh Canh Rong Biển](https://share.google/89aLSOasmMfqpH5S0)
+
+- Địa chỉ: 92 Huỳnh Thúc Kháng
+- Mô tả:
+  - Quá bán bánh canh rong biển (bột lọc, bột gạo lứt, bột mỳ)
+  - Giá: 30k/tô
+  - Bánh canh ngon, bán cả ngày
 
 ### <a name="food-hai-san"/> Hải Sản
 
@@ -141,7 +143,6 @@
   - Quán có bán cuốn gia truyền Quảng Đông siêuuu ngon (bánh cuốn bắp mỹ chỉ 20k, còn cuốn tôm thì siêu to và tươi)
   - Quán có hoành thánh nước ngon
   - Nói chung menu ngon nhắm, ăn là ghiền ó mấy ní
-
 
 ### <a name="food-an-vat"/> Ăn Vặt
 
@@ -231,6 +232,24 @@
 
 ## <a name="cafe" /> Quán Cà phê
 
+### [Khâu Cà phê]([https://goo.gl/maps/LKjuWcahSAUTvGRg7](https://maps.app.goo.gl/vGHTu74EkCSByeJi8))
+
+- Địa chỉ: 75/18 Lê Hồng Phong, Hải Châu, Đà Nẵng
+- Mô tả:
+  - Mở cửa: 6AM - 11PM
+  - Giá: 30-50k
+  - Một khu vườn để thở và trò chuyện cùng bạn bè, gia đình
+  - Một nơi trốn văn phòng và ngồi làm việc giữa một màu xanh
+
+### [The 59 cafe](https://maps.app.goo.gl/oX5nsGg1DsSfRzRH8)
+- Địa chỉ: Kiệt 59 Hải Phòng, Hải Châu, Đà Nẵng
+- Mô tả:
+  - Mở cửa: 7AM - 08:30PM
+  - Giá: 30-50k
+  - Một khu vườn để thở và trò chuyện cùng bạn bè, gia đình
+  - Một góc nhìn ra khuôn viên chùa để thở và ngắm nhìn cây cối, yên tính
+  - Một nơi trốn văn phòng và ngồi làm việc
+
 ### [Cà phê Long](https://goo.gl/maps/LKjuWcahSAUTvGRg7)
 
 - Địa chỉ: 123 Lê Lợi
@@ -244,7 +263,10 @@
 ### [The Local Beans](https://thelocalbeans.com/)
 
 - Địa chỉ:
-  - [56A Lê Hồng Phong](https://g.page/thelocalbeans?share)
+  - [186 Phan Châu Trinh](https://maps.app.goo.gl/edQf8TPuizwtgbJN7) - Premium
+    - Giá: Vì Premium nên giá cao hơn, tầm 50-100k =)))
+    - Mô tả:
+      - Premium, view đẹp, không gian thoáng, phù hợp làm việc, hẹn hò, tụ tập bạn bè
   - [84 Châu Thị Vĩnh Tế](https://goo.gl/maps/G6bNML96hS74Aetm6)
     - Giá:
       - cf bình thường: 30-60k
@@ -252,29 +274,27 @@
     - Mô tả:
       - làm việc(tầng 3 có working space)
       - làm gì cũng được, ý là ngồi vs bạn cũng đc, giá tầm trung và chất lượng, nhân viên xinh, có quen chủ :3
-  - [186 Phan Châu Trinh](https://maps.app.goo.gl/edQf8TPuizwtgbJN7) - Premium
-    - Giá: Vì Premium nên giá cao hơn, tầm 50-100k =)))
-    - Mô tả:
-      - Premium, view đẹp, không gian thoáng, phù hợp làm việc, hẹn hò, tụ tập bạn bè
+
+### [Cà Phê Muối Huế](https://maps.app.goo.gl/ena1wh66ctUFBcWv6)
+
+- Địa chỉ: 254 Trần Phú
+- Giá: 30k - 50k
+- Mô tả:
+  - Quán cà phê thích hợp nhất ngồi vào sáng sớm, lúc không khí còn trong lành, đường yên tĩnh và cây xanh ngập các góc nhìn. Đối diện còn có đàn bồ câu hay được nhà đối diện cho ăn =))
+  - Cà phê muối ngon giá bình dân
 
 ### [43 Factory Coffee Roaster](https://g.page/43factorycoffeeroaster?share)
 
 - Địa chỉ: Lô 442 Đường Ngô Thì Sĩ
-- Giá: 90k trở lên
-- Phù hợp: người chuyên thưởng thức cafe rang xay
+- Giá: 100k trở lên
+- Phù hợp: người chuyên thưởng thức cafe rang xay chuyên nghiệp
 
 ### [Cam Cafe](https://camcafe-cafe.business.site/)
 
 - Địa chỉ: 75 Nguyễn Du
 - Giá: 15 - 50k
-- Phù hợp: đường vắng yên tĩnh, không gian thoáng phù hợp ngồi cf sáng sớm cuối tuần
+- Phù hợp: đường vắng yên tĩnh, không gian thoáng phù hợp ngồi cf sáng sớm cuối tuần hoặc buổi tối những ngày có trăng sáng
 - Mô tả: cf muối (25k)) và cf muối kem cheese (35k) siêu ngon
-
-### [BreadnSalt Café](https://www.facebook.com/breadnsalt.cafe)
-
-- Địa chỉ: [84 Hoàng Kế Viêm, Bắc Mỹ Phú, Ngũ Hành Sơn](https://g.page/breadnsalt?share)
-- Giá nước trung bình 60k, có bán đồ ăn sáng, món chay
-- Đóng cửa lúc 17h hàng ngày
 
 ### [Ikigai. Garden. Cafe]()
 
@@ -292,14 +312,6 @@
 - open 24/24 every day (đặt biệt không có phụ thu)
 - Mô tả:
   - Phù hợp với những bạn sinh viên hoặc những bạn bị dí deadline (như mình chả hạn :( )
-
-### [Đi Lạc](https://www.facebook.com/dilaccoffee)
-
-- Địa chỉ: [24 Nguyễn Công Trứ, Sơn Trà, Đà Nẵng](https://goo.gl/maps/h6RMjSfb4jXDdMGq7)
-- Giá nước trung bình 35k
-- Mở cửa lúc 07:00–22:00
-- Mô tả:
-  - Quán có thêm dịch vụ xem Tarot phù hợp với những bạn muốn tìm kiếm thông điệp của vũ trụ gửi đến mình (nhớ là book lịch trước nhé ^^)
 
 ### [Namto House Coffee Da Nang](https://www.facebook.com/namtohouse)
 
